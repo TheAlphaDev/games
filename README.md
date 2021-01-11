@@ -3,7 +3,6 @@
 **These are the games I have made with HTMl, CSS and JS**
 All source code is available in this repository.
 
-
 Please leave a star so more people can see this.
 
 --------------------------------------------------
